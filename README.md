@@ -23,3 +23,6 @@ JobPlus is a onlineJob Hunting Web App. As a user, you can browse and star ana a
 
 ## Demo vedio
 Here is a demo video for JobPlus, youtube link [here](https://youtu.be/goNLbdSualY).
+
+## Licence
+JobPlus is released under the [Apache 2.0 license](JobPlus/licence.txt).
